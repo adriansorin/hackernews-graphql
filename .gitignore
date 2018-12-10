@@ -1,1 +1,4 @@
 node_modules
+
+# Prisma generated schema
+src/generated/*
